@@ -1,0 +1,1 @@
+A Magyarországon használt azonosítók formátumát és érvényességét ellenőrzi.

@@ -1,0 +1,11 @@
+{
+  "name": "Distvan/IdChecker",
+  "description": "Checking various id formats, for example: hungarian and EU company tax vat",
+  "require": {},
+  "require-dev": {
+    "phpunit/phpunit": "^7"
+  },
+  "autoload": {
+    "psr-4": {"Distvan\\": "classes/"}
+  }
+}
