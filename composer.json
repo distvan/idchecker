@@ -1,5 +1,5 @@
 {
-  "name": "Distvan/IdChecker",
+  "name": "distvan/idchecker",
   "description": "Checking various id formats, for example: hungarian and EU company tax vat",
   "require": {},
   "require-dev": {
