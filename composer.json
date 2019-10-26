@@ -1,6 +1,15 @@
 {
   "name": "distvan/idchecker",
   "description": "Checking various id formats, for example: hungarian and EU company tax vat",
+  "homepage":"https://github.com/distvan/idchecker",
+  "license":"MIT",
+  "authors":[
+  	{
+		"name": "Istvan Dobrentei",
+		"homepage": "https://www.dobrenteiistvan.hu",
+		"role": "Developer"
+	}
+  ],
   "require": {},
   "require-dev": {
     "phpunit/phpunit": "^7"
